@@ -14,19 +14,19 @@ const submitAge = document.querySelector('.submit-age')
 const submitMilfHair = document.querySelector('.submit-milf-hair')
 const submitYoungHair = document.querySelector('.submit-young-hair')
 
-let skinNoMatter = ['Abela Danger', 'Victoria Lobov', 'Jane Wilde', 'webtolove', 'Jennifer Exxotic', 'Savannah Sixx', 'Riley Reid (OP)', 'Alina Lopez', 'Victoria June', 'Luna Star ', 'Vincent_Vega_Off', 'Pheonix Marie', 'Sybil', 'Codi Vore', 'Emanuelly Raquel', 'August Ames', 'Lady Fire', 'Jewelz Blu', 'Eva Lovia (OP)', 'Vina Sky', 'Violet Myers (OP)', 'Jia Lissa', 'Jessa Rhodes', 'Kissa Sins', 'LuxuruMur (OP)', 'Kenzie Madison', 'Yiny Leon', 'Rae Lil Black', 'Mia Molkova', 'Sweetie_Fox', 'Alina Li', 'Zirael_rem', 'Riley Star', 'LaSirena 69 (OP)', 'Rose Monroe', 'Vanessa Cage', 'Lenina Crowne (OP)', 'Lancy Lennon', 'Brianna Rose (OP)', 'Maya Farrel', 'Kiara Lord', 'Skye Blue', 'Hungry_kitty', 'Sasha Rose', 'Jada Stevens', 'Angel', 'Scarlet Chase']
-let skinWhite = ['Abela Danger', 'Victoria Lobov', 'Vincent_Vega_Off', 'Pheonix Marie', 'Sybil', 'Codi Vore', 'Emanuelly Raquel', 'August Ames', 'Lady Fire', 'Jewelz Blu', 'Eva Lovia (OP)', 'Violet Myers (OP)', 'Jia Lissa', 'Jessa Rhodes', 'Kissa Sins', 'LuxuruMur (OP)', 'Kenzie Madison', 'Yiny Leon', 'Mia Molkova', 'Sweetie_Fox', 'Zirael_rem', 'Riley Star', 'LaSirena 69 (OP)', 'Rose Monroe', 'Vanessa Cage', 'Lenina Crowne (OP)', 'Lancy Lennon', 'Brianna Rose (OP)', 'Kiara Lord', 'Skye Blue', 'Hungry_kitty', 'Sasha Rose', 'Angel', 'Scarlet Chase']
+let skinNoMatter = ['Lana Rhoades', 'Abela Danger', 'Victoria Lobov', 'Jane Wilde', 'webtolove', 'Jennifer Exxotic', 'Savannah Sixx', 'Riley Reid (OP)', 'Alina Lopez', 'Victoria June', 'Luna Star ', 'Vincent_Vega_Off', 'Pheonix Marie', 'Sybil', 'Codi Vore', 'Emanuelly Raquel', 'August Ames', 'Lady Fire', 'Jewelz Blu', 'Eva Lovia (OP)', 'Vina Sky', 'Violet Myers (OP)', 'Jia Lissa', 'Jessa Rhodes', 'Kissa Sins', 'LuxuruMur (OP)', 'Kenzie Madison', 'Yiny Leon', 'Rae Lil Black', 'Mia Molkova', 'Sweetie_Fox', 'Alina Li', 'Zirael_rem', 'Riley Star', 'LaSirena 69 (OP)', 'Rose Monroe', 'Vanessa Cage', 'Lenina Crowne (OP)', 'Lancy Lennon', 'Brianna Rose (OP)', 'Maya Farrel', 'Kiara Lord', 'Skye Blue', 'Hungry_kitty', 'Sasha Rose', 'Jada Stevens', 'Angel', 'Scarlet Chase']
+let skinWhite = ['Lana Rhoades', 'Abela Danger', 'Victoria Lobov', 'Vincent_Vega_Off', 'Pheonix Marie', 'Sybil', 'Codi Vore', 'Emanuelly Raquel', 'August Ames', 'Lady Fire', 'Jewelz Blu', 'Eva Lovia (OP)', 'Violet Myers (OP)', 'Jia Lissa', 'Jessa Rhodes', 'Kissa Sins', 'LuxuruMur (OP)', 'Kenzie Madison', 'Yiny Leon', 'Mia Molkova', 'Sweetie_Fox', 'Zirael_rem', 'Riley Star', 'LaSirena 69 (OP)', 'Rose Monroe', 'Vanessa Cage', 'Lenina Crowne (OP)', 'Lancy Lennon', 'Brianna Rose (OP)', 'Kiara Lord', 'Skye Blue', 'Hungry_kitty', 'Sasha Rose', 'Angel', 'Scarlet Chase']
 let skinAsia = ['Vina Sky', 'Rae Lil Black', 'Alina Li', 'Jade Kush', 'Lulu Chu']
 let skinBlack = ['Jada Stevens', 'Maya Farrel']
 
 let blond = ['Victoria Lobov', 'Alina Lopez', 'Codi Vore', 'Jessa Rhodes','LuxuruMur (OP)', 'Kenzie Madison', 'Mia Molkova', 'Zirael_rem', 'Riley Star', 'Vanessa Cage', 'Skye Blue', 'Angel']
-let brownHair = ['Jane Wilde', 'webtolove', 'Riley Reid (OP)', 'Yiny Leon', 'Eva Lovia (OP)', 'August Ames', 'Vincent_Vega_Off']
+let brownHair = ['Lana Rhoades', 'Jane Wilde', 'webtolove', 'Riley Reid (OP)', 'Yiny Leon', 'Eva Lovia (OP)', 'August Ames', 'Vincent_Vega_Off']
 let blackHair = ['Abela Danger', 'Brianna Rose (OP)', 'Jennifer Exxotic', 'Savannah Sixx', 'Victoria June', 'Luna Star ', 'Emanuelly Raquel', 'Violet Myers (OP)', 'Kissa Sins', 'LaSirena 69 (OP)', 'Rose Monroe', 'Hungry_kitty', 'Sasha Rose', ]
 let ginger = ['Pheonix Marie', 'Sybil', 'Lady Fire', 'Jia Lissa', 'Sweetie_Fox', 'Lenina Crowne (OP)', 'Lancy Lennon', 'Scarlet Chase', 'Kiara Lord']
 let strange = ['Jewelz Blu', '']
 
 let whiteMilf = ['Abela Danger', 'Victoria Lobov', 'Jane Wilde', 'Jennifer Exxotic', 'Victoria June', 'Luna Star ', 'Pheonix Marie', 'Emanuelly Raquel', 'August Ames', 'Lady Fire', 'Eva Lovia (OP)', 'Jessa Rhodes', 'Kissa Sins', 'Yiny Leon', 'Mia Molkova', 'LaSirena 69 (OP)', 'Rose Monroe', 'Vanessa Cage', 'Lenina Crowne (OP)', 'Lancy Lennon', 'Brianna Rose (OP)', 'Kiara Lord', 'Sasha Rose', 'Scarlet Chase',]
-let whiteYoung = ['webtolove', 'Savannah Sixx', 'Riley Reid (OP)', 'Alina Lopez', 'Vincent_Vega_Off', 'Sybil', 'Codi Vore', 'Jewelz Blu', 'Violet Myers (OP)', 'Jia Lissa', 'LuxuruMur (OP)', 'Kenzie Madison', 'Sweetie_Fox', 'Zirael_rem', 'Riley Star', 'Hungry_kitty', 'Angel',]
+let whiteYoung = ['Lana Rhoades', 'webtolove', 'Savannah Sixx', 'Riley Reid (OP)', 'Alina Lopez', 'Vincent_Vega_Off', 'Sybil', 'Codi Vore', 'Jewelz Blu', 'Violet Myers (OP)', 'Jia Lissa', 'LuxuruMur (OP)', 'Kenzie Madison', 'Sweetie_Fox', 'Zirael_rem', 'Riley Star', 'Hungry_kitty', 'Angel',]
 
 let whiteMilfBlond = ['Victoria Lobov', 'Pheonix Marie', 'Jessa Rhodes', 'Kissa Sins', 'Mia Molkova', 'Vanessa Cage']
 let whiteMilfBrownHair = ['Jane Wilde', 'August Ames', 'Eva Lovia (OP)', 'Yiny Leon', 'Brianna Rose (OP)']
@@ -34,7 +34,7 @@ let whiteMilfBlackHair = ['Abela Danger', 'Jennifer Exxotic', 'Victoria June', '
 let whiteMilfGingerHair = ['Lady Fire', 'Lenina Crowne (OP)', 'Lancy Lennon', 'Kiara Lord', 'Scarlet Chase']
 
 let whiteYoungBlond = ['Alina Lopez', 'Codi Vore', 'LuxuruMur (OP)', 'Kenzie Madison', 'Riley Star', 'Angel']
-let whiteYoungBrownHair = ['webtolove', 'Riley Reid (OP)', 'Vincent_Vega_Off', 'Sybil']
+let whiteYoungBrownHair = ['Lana Rhoades', 'webtolove', 'Riley Reid (OP)', 'Vincent_Vega_Off', 'Sybil']
 let whiteYoungBlackHair = ['Savannah Sixx', 'Violet Myers (OP)', 'Hungry_kitty']
 let whiteYoungGingerHair = ['Jia Lissa', 'Sweetie_Fox']
 let whiteYoungStrange = ['Jewelz Blu', '', 'Zirael_rem']
