@@ -41,6 +41,12 @@ button {
     justify-content: space-between;
 }
 
+.container-options-age {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
 .container-options-skin {
     display: flex;
     justify-content: space-around;
@@ -48,12 +54,6 @@ button {
 }
 
 .container-options-hair {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-
-.container-options-age {
     display: flex;
     justify-content: space-around;
     align-items: center;
